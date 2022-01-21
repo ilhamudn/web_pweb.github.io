@@ -35,7 +35,7 @@ $config['base_url'] = 'http://localhost:8080/web_pweb/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
